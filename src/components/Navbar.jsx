@@ -18,7 +18,7 @@ function Navbar() {
 
         <div>
           <h1 className="text-2xl font-bold text-yellow-400">
-            Global Hire Partners
+           Global Hire Partners
           </h1>
 
           <p className="text-xs tracking-[3px] text-gray-300">
